@@ -2,8 +2,6 @@
 
 [English](#english) | [繁體中文](#繁體中文)
 
-`<a name="english"></a>`
-
 ## English
 
 A tiny Windows batch script that self-elevates (UAC prompt once) and stops **COM Surrogate** by killing `dllhost.exe`.
@@ -34,8 +32,6 @@ A tiny Windows batch script that self-elevates (UAC prompt once) and stops **COM
 - When `COM Surrogate` is stuck consuming CPU/RAM and you want a quick reset.
 
 ---
-
-`<a name="繁體中文"></a>`
 
 ## 繁體中文
 
